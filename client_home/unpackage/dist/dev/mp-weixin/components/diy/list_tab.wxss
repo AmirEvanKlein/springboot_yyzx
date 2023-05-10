@@ -1,0 +1,41 @@
+
+.wt-tabs {
+	box-sizing: border-box;
+	overflow: hidden;
+	margin-top: 10px;
+}
+::-webkit-scrollbar {
+	display: none;
+}
+.wt-tabs__container {
+	position: relative;
+	display: inline-flex;
+	align-items: center;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.wt-tabs__container-item {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	position: relative;
+	z-index: 10;
+	/* padding: 0 11px; */
+	transition: all 0.2s;
+	white-space: nowrap;
+}
+.wt-tabs__container-item+.wt-tabs__container-item{
+	border-left: 1px solid #ccc;
+}
+.wt-tabs__container-line {
+	position: absolute;
+	bottom: 0;
+	transition: all 0.2s linear;
+}
+.wt-tabs__container-pills {
+	position: absolute;
+	transition: all 0.2s linear;
+	z-index: 9;
+}
+

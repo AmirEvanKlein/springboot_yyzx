@@ -1,0 +1,121 @@
+
+.avatar-uploader .el-upload.data-v-77996e17 {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload.data-v-77996e17:hover {
+  border-color: #409EFF;
+}
+.form_button.data-v-77996e17{
+  padding-bottom: 15px;
+  display: flex;
+}
+.form_button button.data-v-77996e17{
+  width: 40%;
+}
+.query_select.data-v-77996e17{
+  border-color: rgb(229, 229, 229);
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-sizing: border-box;
+  flex: 1;
+  width: 100%;
+  line-height: 2;
+  font-size: 14px;
+  height: 2.4em;
+  min-height: 2.4em;
+  display: block;
+  outline:none;
+}
+.query_option.data-v-77996e17{
+  width: 100%;
+}
+.btn_add_img.data-v-77996e17{
+  color: #D3D3D3;
+  text-align: center;
+  border: 1px solid #eee;
+  height: 5rem;
+  width: 5rem;
+  position: relative;
+}
+.btn_add_img text.data-v-77996e17{
+  font-size: 35px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.avatar-uploader .el-upload.data-v-77996e17 {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload.data-v-77996e17:hover {
+  border-color: #409eff;
+}
+.form_button.data-v-77996e17 {
+  padding-bottom: 15px;
+  display: flex;
+}
+.form_button button.data-v-77996e17 {
+  width: 40%;
+}
+.query_select.data-v-77996e17 {
+  border-color: rgb(229, 229, 229);
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-sizing: border-box;
+  flex: 1;
+  width: 100%;
+  line-height: 2;
+  font-size: 14px;
+  height: 2.4em;
+  min-height: 2.4em;
+  display: block;
+  outline: none;
+}
+.query_option.data-v-77996e17 {
+  width: 100%;
+}
+.btn_add_img.data-v-77996e17 {
+  color: #d3d3d3;
+  text-align: center;
+  border: 1px solid #eee;
+  height: 5rem;
+  width: 5rem;
+  position: relative;
+}
+.btn_add_img text.data-v-77996e17 {
+  font-size: 35px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+/*新样式*/
+.uni-forms.data-v-77996e17{
+padding-top:1rem;
+}
+.uni-forms-item.data-v-77996e17 {
+	padding: 6px 10px;
+    background: #f8f6fc;
+}
+.uni-forms .is-input-border.data-v-77996e17{
+	border: 0;
+}
+.container.data-v-77996e17{
+	    box-shadow: 0px 0px 0px #888888;
+}
+.form_button .primary_btn.data-v-77996e17{
+		background-color: #22B8B8;
+		color: #FFFFFF;
+}
+

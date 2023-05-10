@@ -1,0 +1,83 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/webview/webview",
+    "pages/comment/edit",
+    "pages/media/music",
+    "pages/media/image",
+    "pages/media/video",
+    "pages/account/forgot",
+    "pages/account/login",
+    "pages/account/register",
+    "pages/notice/list",
+    "pages/notice/details",
+    "pages/swimming_hall_information/list",
+    "pages/swimming_hall_information/details",
+    "pages/venue_reservation/edit",
+    "pages/payment_information/edit",
+    "pages/recharge_information/edit",
+    "pages/recharge_confirmation/edit",
+    "pages/food_information/list",
+    "pages/food_information/details",
+    "pages/food_order/edit",
+    "pages/swimming_hall_information/table",
+    "pages/swimming_hall_information/view",
+    "pages/venue_reservation/table",
+    "pages/venue_reservation/view",
+    "pages/payment_information/table",
+    "pages/payment_information/view",
+    "pages/user_wallet/table",
+    "pages/user_wallet/view",
+    "pages/recharge_information/table",
+    "pages/recharge_information/view",
+    "pages/recharge_confirmation/table",
+    "pages/recharge_confirmation/view",
+    "pages/food_information/table",
+    "pages/food_information/view",
+    "pages/food_order/table",
+    "pages/food_order/view",
+    "pages/ordinary_users/table",
+    "pages/ordinary_users/view",
+    "pages/user/collect",
+    "pages/user/index",
+    "pages/user/password",
+    "pages/user/info"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "长盛",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#3388FF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/home_a.png",
+        "selectedIconPath": "static/img/home_b.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的",
+        "iconPath": "static/img/my_a.png",
+        "selectedIconPath": "static/img/my_b.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

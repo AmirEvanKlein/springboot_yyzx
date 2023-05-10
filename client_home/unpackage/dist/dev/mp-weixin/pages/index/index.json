@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "list_swimming_hall_information": "/components/diy/list_swimming_hall_information",
+    "list_food_information": "/components/diy/list_food_information",
+    "card": "/components/common/card",
+    "bar_title": "/components/diy/bar_title",
+    "list_ad": "/components/diy/list_ad",
+    "list_menu": "/components/diy/list_menu",
+    "list_link": "/components/diy/list_link",
+    "slide": "/components/common/slide",
+    "notice": "/components/common/notice"
+  }
+}

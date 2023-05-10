@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "公告信息",
+  "usingComponents": {
+    "uni-card": "/components/uni-card/uni-card"
+  }
+}

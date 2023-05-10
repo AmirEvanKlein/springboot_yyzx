@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-data-select": "/components/uni-data-select/uni-data-select"
+  },
+  "component": true
+}
